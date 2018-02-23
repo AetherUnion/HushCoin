@@ -51,3 +51,4 @@ Start the server:
 $ name.py
 * Runing on a http (CTRL + C to quit)
 ```
+Open http://localhost:5000/mine to dig mine and add a new transaction through post request. Then request http://localhost:5000/chain to check all the block information.
