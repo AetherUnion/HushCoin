@@ -42,3 +42,12 @@ We intend to build 3 API:
 1. /transactions/new (create a new transaction and add it to block) 
 2. /mine (deliver to the server to dig new block)
 3. /chain (return the whole blockchain)
+
+### Run
+
+Now, we are gonna to run the blockchain through http client. We reccomend Postman and cURL.
+Start the server:
+```
+$ name.py
+* Runing on a http (CTRL + C to quit)
+```
